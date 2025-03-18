@@ -15,7 +15,7 @@ git clone https://github.com/AMV1909/Drenvio-Backend
 ### **2️⃣ Instalar las dependencias**
 
 ```
-cd Drenvio
+cd Drenvio-Backend
 pnpm install
 ```
 
